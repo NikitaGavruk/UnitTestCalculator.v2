@@ -1,0 +1,2 @@
+C:\Users\Mikita_Hauruk\source\repos\UnitTestsCalculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Mikita_Hauruk\source\repos\UnitTestsCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
